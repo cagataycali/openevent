@@ -26,17 +26,26 @@ Open Event is an open source project. You can contribute to the project by repor
 ## How to create an event?
 
 - Create an event by visiting [openevent.io](https://openevent.io)
-- You can create an event by signing up or signing in to your account
-- You can also create an event by using our API or by using the [Open Event](#)
+- Login with crypto wallet
+- Fill the event creation form and submit
+    - Logo
+    - Name
+    - Description
+    - Location, date, and time
+    - Social links
+    - Ticket minimum price
+        - Leftover ETH will be sent to charity.
+    - Charity percentage and selection
+        - You can select a charity from the list or create a new one, only verified charities will be listed
+- Share the event link with the world
+- Attendees will buy tickets and attend the event
+- Event organizer will check the attendee's badge NFT and let them in
+- Each time there is a ticket sale, the relevant price will be distributed instantly to the charity and the event organizer
+
 
 ## Register a charity
 
 Register a verified charity eth wallet address via using google forms.
-Charities will be listed in public google spreadsheet, when the charity account is confirmed, event creators will be able to select a charity to donate leftover ticket prices to their selected charity.
-
-## Create a event
-
-Create a event via using google forms.
-Event creators will be able to select a charity to donate leftover ticket prices to their selected charity.
+Charities will be listed in public google spreadsheet, when the charity account is confirmed, event creators can select a charity to donate ticket price percentages to their chosen charity.
 
 
