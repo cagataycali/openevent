@@ -48,7 +48,8 @@ Open Event is an open source project. You can contribute to the project by repor
 Register a verified charity eth wallet address via using google forms.
 Charities will be listed in public google spreadsheet, when the charity account is confirmed, event creators can select a charity to donate ticket price percentages to their chosen charity.
 
-[Register a charity](https://forms.gle/PwD5WVt1LL2RXcYa8)
+- [Register a charity](https://forms.gle/PwD5WVt1LL2RXcYa8)
+- [Charities list](https://docs.google.com/spreadsheets/d/1NtKd7eY4Hm3rSi1nHVMKvjgGSdQ_26bKL47GGtBgwbY/edit?usp=sharing)
 
 ## How to create a badge NFT?
 
